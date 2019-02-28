@@ -1,0 +1,11 @@
+{
+  "name": "es6-in-depth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shufd <shufd@sany.com.cn> (https://www.github.com/shufudong)",
+  "license": "Apache-2.0"
+}
